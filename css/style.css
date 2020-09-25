@@ -1,0 +1,80 @@
+#foto {
+  width: 200px;
+  margin-left: 50px;
+}
+.jumbotron {
+  height: 450px;
+  background-color: #ea792a;
+}
+.navbar-style {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  color: #ea792a;
+}
+.navbar-style:hover,
+.navbar-brand:focus {
+  text-decoration: none;
+  color: #442e1c;
+}
+
+.dropdown-item-baru {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #ea792a;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.dropdown-item-baru:hover,
+.dropdown-item-baru:focus {
+  color: #442e1c;
+  text-decoration: none;
+  background-color: #ea792a;
+}
+
+/* content */
+.content {
+  margin-bottom: 50px;
+}
+#kontak {
+  background-color: #b9cbc9;
+}
+.hrCon {
+  border: 0;
+  border-top: 3px double;
+}
+
+/* akhir content */
+/* footer */
+.footer {
+  margin-bottom: 50px;
+}
+.footerHead {
+  color: #ea792a;
+  text-align: center;
+}
+.contacttext {
+  color: #ea792a;
+}
+.btn-orange {
+  color: #b9cbc9;
+  background-color: #ea792a;
+}
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active,
+.open > .dropdown-toggle.btn-orange {
+  background-color: #ea502a;
+  color: #442e1c;
+}
+/* akhir footer */
